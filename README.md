@@ -1,7 +1,7 @@
-# EX 2 -Virtualization
+# Ex 2 Virtualization with Linux Commands
 
-## REGNO: 212222040120
-## NAME:  R.PRASANNA
+## REGNO: 212222220044
+## NAME:  S.SHRUTHI
 
 ## Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
